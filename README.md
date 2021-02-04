@@ -5,4 +5,5 @@
 4. Quadratic Weighted Kappa:
 5. Model: We will use a DenseNet-121 pre-trained on ImageNet. We will finetune it using Adam for 15 epochs, and evaluate it on an unseen validation set.
 6. Training & Evaluation: We take a look at the change in loss and QWK score through the epochs.
+7. Will be using Multiclass lables, rather than single class labels
 
