@@ -31,4 +31,5 @@ plot = train_df['diagnosis'].hist()
 print(train_df['diagnosis'].value_counts())
 
 display_samples(train_df)
-plt.show()
+#plt.show()
+

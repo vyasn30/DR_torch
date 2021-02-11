@@ -6,7 +6,7 @@ import PIL.Image as Image
 from sklearn.model_selection import train_test_split
 import cv2
 import os
-
+    
 IMG_SIZE = 512
 
 
